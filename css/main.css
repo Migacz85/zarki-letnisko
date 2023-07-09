@@ -27,13 +27,13 @@ html {
 
 body {
   font-family: 'Lato', sans-serif;
-  font-size: 1.7em;
+  /* font-size: 1.7em; */
   margin: 0;
   padding: 0;
   /* for fixed menu */
   /* padding-top: 1.4em; */
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  /* -webkit-box-sizing: border-box; */
+          /* box-sizing: border-box; */
 
 }
 
